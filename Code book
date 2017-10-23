@@ -1,0 +1,19 @@
+Code Book
+This code book summarizes the resulting data fields in tidy.txt.
+
+Identifiers
+
+subject - The ID of the test subject
+activity - The type of activity performed when the corresponding measurements were taken
+
+*Activity= the importing of the data used then tidy
+*Total.steps= looks to compare data based on steps and state
+*Mean= 10766.19
+*Median=10765
+*the average daily activity pattern? 835 maximum number of steps
+*206.2 average number of steps taken
+*steps_interval=looks to compare steps and interval
+*there is a total of 2304 number of missing values
+*the mean is the same as before however, the median is different from the beginning based on the added missing values
+Mean=10766.19
+ Median=10766
